@@ -1,0 +1,65 @@
+.product-image {
+    height:60vh;
+    width:30vw;
+    border-radius:10px;
+
+}
+.product-image:hover{
+
+    cursor: pointer;
+}
+.productsdetailall{
+    height: 70vh;
+    width:60vw;
+    margin:60px;
+    
+
+}
+.product-details{
+    display:flex;
+    margin-left: 200px;
+   
+}
+.product-name{
+    color: rgba(117, 96, 51, 0.734);
+    margin-top: -60px;
+}
+.product-price{
+ font-size: 20px;
+ font-weight: 600;
+ margin-top: 20px;
+}
+.countInStock{
+    color: rgba(31, 22, 4, 0.734);
+    margin-top: 20px;
+    font-size: medium;
+    
+}
+.product-description{
+    font-size: 15px;
+    margin-top: 20px;
+}
+.product-btn{
+    border: 2px solid rgba(113, 89, 38, 0.734);
+  
+    background-color: rgba(179, 156, 109, 0.734);
+    color:white;
+    height:6vh;
+    width:30%;
+    border-radius: 20px;
+    margin-top: 10px;
+}
+.product-category{
+    margin-top: 20px;
+}
+
+.view button{
+    border: 2px solid rgba(113, 89, 38, 0.734);
+  
+    background-color: rgba(179, 156, 109, 0.734);
+    color:white;
+    height:6vh;
+    width:30%;
+    border-radius: 20px;
+    margin-top: 10px;
+}

@@ -1,0 +1,49 @@
+.column {
+    flex: 30%;
+    float: left;
+    padding-left: 30px;
+    padding-right:50px ;
+    padding-top:30px ;
+    transition: 1.2s;
+    /* background-image: radial-gradient(#b28c62 2px, transparent 2px);
+background-size: 32px 32px;
+background-color: rgba(162, 151, 103, 0.58); */
+    
+  }
+  .column img{
+ border-radius: 10px;
+  }
+ 
+.column img:hover{
+  /* transform: scale(0.8); */
+  transform: translateY(-10%);
+  transition: 1s;
+}
+img {
+  width: 260px;
+}
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 1 rem;
+  
+}
+
+.column .text{
+  text-decoration: none;
+  color: rgba(33, 33, 33, 0.655);
+}
+.text-center{
+  color: rgba(117, 96, 51, 0.734);
+}
+
+#WoodenTemple img{
+  height: 87%;
+  border-radius: 10px;
+}
+
+#cooler img{
+  height: 36vh;
+  border-radius: 10px;
+}
