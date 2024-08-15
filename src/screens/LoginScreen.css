@@ -1,0 +1,80 @@
+#login_img {
+    width:500px;
+    height:400px;
+    float: right;
+}
+
+.form{
+    display: inline-block;
+    vertical-align: top;
+    padding-left: 50px;
+    padding-right: 50px;
+  
+
+}
+
+#l_c{
+    padding-top: 30px;
+    background-image:url(sofa1.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:90vh ;
+    border-radius: 20px;
+    opacity: 0.9;
+}
+#_c{
+    padding-top: 30px;
+    background-image:url(sofa1.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:90vh ;
+    border-radius: 20px;
+    opacity: 0.9;
+   
+
+}
+.form-title{
+    color: rgba(54, 43, 19, 0.734) ;
+}
+.lgnbtn{
+    border: 2px solid rgba(54, 43, 19, 0.734) ;
+    height:6vh;
+    width:30%;
+    border-radius: 20px;
+    background-color: rgba(179, 156, 109, 0.734);
+    color:white;
+}
+.lgnbtn2{
+    border: 2px solid rgba(54, 43, 19, 0.734) ;
+    height:6vh;
+    width:30%;
+    border-radius: 20px;
+    background-color: rgba(179, 156, 109, 0.734);
+    color:white;
+}
+.card2{
+    height: 65vh;
+    width: 33vw;
+    transform: translate(10%,-20%);
+    backdrop-filter: blur(0px) saturate(180%);
+    -webkit-backdrop-filter: blur(0px) saturate(180%);
+    background-color: rgba(52, 61, 77, 0.179);
+    border-radius: 12px;
+    border: 1px solid rgba(255, 255, 255, 0.374);
+
+}
+
+.card{
+    height: 50vh;
+    width: 33vw;
+    backdrop-filter: blur(0px) saturate(180%);
+    -webkit-backdrop-filter: blur(0px) saturate(180%);
+    background-color: rgba(52, 61, 77, 0.179);
+    border-radius: 12px;
+    border: 1px solid rgba(255, 255, 255, 0.374);
+}
+.signup-image-link{
+    text-decoration: none;
+    color:rgba(42, 32, 11, 0.734) ;
+    font-weight: 700;
+}

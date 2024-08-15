@@ -1,0 +1,21 @@
+#mbimg {
+    margin-top: 20px;
+    width:350px;
+    border-radius: 10px;
+    transition: transform 1s;
+    margin: 3 rem;
+}
+#mbimg:hover{
+    transform: translatex(-10%);
+    transition: 1s;
+    cursor: pointer;
+}
+.mbimgtext{
+    color:rgba(33, 33, 33, 0.655);
+    font-size: 15px;
+}
+.collection{
+    text-align: center;
+    font-size: 30px;
+    color: rgba(117, 96, 51, 0.734);
+}
